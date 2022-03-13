@@ -2,7 +2,7 @@ import discord
 
 #Mafia Bot Info
 
-TOKEN = "OTQ3ODcwMTM0Mjk3NTc5NTYy.Yhzi2g.HQgy7Kk4iu94W3dSMB3as0LHUSM"
+TOKEN = ""
 COMMAND = "!mafia"
 SETUP = False
 
